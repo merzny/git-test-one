@@ -7,7 +7,7 @@ a=int(input('Write your answer '))
 if a==1:
     print('Your right!')
     b+=1
-    print('Youre score is',b,'points')
+    print('Youre score is',b,'points')ggggg
 else:
     print('Wrong!')
     print('Youre score is', b,'points')
